@@ -227,4 +227,3 @@ GitHub: [arshibansal](https://github.com/arshibansal)
 ---
 
 **Live Demo →** [https://arshibansal.github.io/ADR_Vault/](https://arshibansal.github.io/ADR_Vault/)
-```
