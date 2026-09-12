@@ -2,9 +2,9 @@
 
 
 
-\*\*Project:\*\* ADR Vault – Premium Home Page  
+\*\*Project:\*\* ADR Vault – Premium Home Page
 
-\*\*Track:\*\* Part 2  
+\*\*Track:\*\* Part 2
 
 \*\*Stack:\*\* HTML, CSS, JavaScript, Bootstrap 5, Google Fonts
 
